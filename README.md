@@ -1,0 +1,2 @@
+# Machine-learning-Classification-Techniques
+Here in this Project we have a to determine which basketball teams are most likely to make it to the semifinal round of the College Basketball Tournament known as the Final Four.Clssification techniques used here like: Knn, Decision Tree, Support Vector Machine, and Logistic Regression. and then The accuracy of each model is calculated using f1_score, jaccard_index and similarity_score.  
